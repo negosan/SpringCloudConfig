@@ -1,1 +1,1 @@
-# SpringCloudConfig配置仓库
+# SpringCloudConfigServer配置仓库
